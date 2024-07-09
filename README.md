@@ -1,4 +1,4 @@
-# Irma Subsmission Dashboard ✨
+# Irma Dashboard ✨
 
 ## Setup environment
 ```
